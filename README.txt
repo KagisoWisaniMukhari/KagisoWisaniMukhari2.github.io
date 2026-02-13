@@ -17,4 +17,5 @@ This GitHub showcases my journey into data analysis through projects and continu
 - E-commerce SQL Analysis
 
 ## 📫 Connect With Me
-LinkedIn: linkedin.com/in/yourname
+LinkedIn: linkedin.com/in/kagiso-wisani-mukhari
+
